@@ -1,0 +1,12 @@
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+  background: linear-gradient(to right, #2563eb, #4f46e5);
+  color: white;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 15px auto;
+  color: #e5e7eb;
+}

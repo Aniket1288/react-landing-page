@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f9fafb;
+  color: #222;
+}
+
+section {
+  padding: 70px 10%;
+}
+
+h1, h2 {
+  margin-bottom: 15px;
+}
+
+p {
+  color: #555;
+  line-height: 1.6;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 22px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+button:hover {
+  background: #1e40af;
+}
